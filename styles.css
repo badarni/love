@@ -1,0 +1,32 @@
+.card{
+    background-color: aliceblue;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    left: 206px;
+    right: 50%;
+    border-radius: 24px;
+    border-color: rgb(192, 11, 153);
+    box-shadow: 0 0 0.2rem #fff, 0 0 0.2rem #fff, 0 0 2rem #ca1533,
+      0 0 0.8rem #bc13fe, 0 0 2.8rem #bc13fe, inset 0 0 1.3rem #bc13fe;
+      color: #a01313;
+      text-shadow: 0 0 7px #f71111, 0 0 10px #34f1c8, 0 0 21px #a636c9,
+        0 0 42px rgb(81, 12, 211), 0 0 82px rgb(143, 19, 112), 0 0 92px #0fa,
+    
+        0 0 102px rgb(212, 248, 6), 0 0 151px rgb(12, 158, 109);
+     
+  }
+     
+    .lines {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        position: relative;
+        top: 200px;
+    }
+    h2{
+        text-align: left;
+        position: absolute;
+        left: 130px;
+        top: 100px;
+    }
