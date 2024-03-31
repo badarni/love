@@ -18,11 +18,15 @@
   }
      
     .lines {
-        display: flex;
-        justify-content: center;
-        text-align: center;
-        position: relative;
-        top: 200px;
+       .lines {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 200px;
+}
+
     }
     h2{
         text-align: left;
